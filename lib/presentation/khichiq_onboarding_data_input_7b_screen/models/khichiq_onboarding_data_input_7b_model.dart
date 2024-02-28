@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'photographer_item_model.dart';class KhichiqOnboardingDataInput7bModel {List<PhotographerItemModel> photographerItemList = [PhotographerItemModel(photographer:ImageConstant.imgCamera,photographer1: "Photographer"),PhotographerItemModel(photographer:ImageConstant.imgFxemojiMoviecamera,photographer1: "Videographer"),PhotographerItemModel(photographer:ImageConstant.imgGroup284,photographer1: "Photo Editor"),PhotographerItemModel(photographer:ImageConstant.imgCut,photographer1: "Video Editor"),PhotographerItemModel(photographer:ImageConstant.imgSmartphone,photographer1: "Social Media Manager"),PhotographerItemModel(photographer:ImageConstant.imgManager,photographer1: "Business Manager")];
+
+ }

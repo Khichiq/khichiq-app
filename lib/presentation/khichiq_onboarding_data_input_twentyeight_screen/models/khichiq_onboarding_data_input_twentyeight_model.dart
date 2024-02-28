@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'khichiqonboardingdatainputtwen_item_model.dart';class KhichiqOnboardingDataInputTwentyeightModel {List<KhichiqonboardingdatainputtwenItemModel> khichiqonboardingdatainputtwenItemList = [KhichiqonboardingdatainputtwenItemModel(candidPhotographer:ImageConstant.imgCheckboxActive,candidPhotographer1:ImageConstant.imgCamera,candidPhotographer2: "Candid Photographer"),KhichiqonboardingdatainputtwenItemModel(candidPhotographer:ImageConstant.imgCheckboxActive,candidPhotographer1:ImageConstant.imgCamera,candidPhotographer2: "Traditional Photographer"),KhichiqonboardingdatainputtwenItemModel(candidPhotographer:ImageConstant.imgCheckboxActive,candidPhotographer1:ImageConstant.imgManager,candidPhotographer2: "Business Manager")];
+
+ }
