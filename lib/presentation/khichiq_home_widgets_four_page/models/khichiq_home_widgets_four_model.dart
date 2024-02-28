@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'khichiqhomewidgetsfour_item_model.dart';class KhichiqHomeWidgetsFourModel {List<KhichiqhomewidgetsfourItemModel> khichiqhomewidgetsfourItemList = [KhichiqhomewidgetsfourItemModel(chinmay:ImageConstant.imgBaa045e1A4554,chinmay1: "Chinmay",self: "SELF",free: "FREE"),KhichiqhomewidgetsfourItemModel(chinmay:ImageConstant.img2019052915310460x60,chinmay1: "Surbhi",self: "PHOTO",free: "BOOKED"),KhichiqhomewidgetsfourItemModel(chinmay:ImageConstant.img20191006173048Hdr,chinmay1: "Sakshi",self: "PHOTO",free: "PENDING"),KhichiqhomewidgetsfourItemModel(chinmay:ImageConstant.imgImg59151,chinmay1: "Siddhes..",self: "VIDEO")];
+
+ }

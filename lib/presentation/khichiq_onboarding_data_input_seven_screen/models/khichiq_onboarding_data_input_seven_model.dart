@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'khichiqonboardingdatainputseve_item_model.dart';class KhichiqOnboardingDataInputSevenModel {List<KhichiqonboardingdatainputseveItemModel> khichiqonboardingdatainputseveItemList = [KhichiqonboardingdatainputseveItemModel(photographer:ImageConstant.imgCheckboxActive,photographer1:ImageConstant.imgCamera,photographer2: "Photographer"),KhichiqonboardingdatainputseveItemModel(photographer:ImageConstant.imgCheckboxActive,photographer1:ImageConstant.imgGroup284,photographer2: "Photo Editor"),KhichiqonboardingdatainputseveItemModel(photographer:ImageConstant.imgCheckboxActive,photographer1:ImageConstant.imgManager,photographer2: "Business Manager")];
+
+ }

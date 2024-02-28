@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'khichiqorderstwentyone_item_model.dart';class KhichiqOrdersTwentyoneModel {List<KhichiqorderstwentyoneItemModel> khichiqorderstwentyoneItemList = [KhichiqorderstwentyoneItemModel(image:ImageConstant.imgWeddingIcon,siddheshwarShreyasi: "Siddheshwar & Shreyasi",wedding: "WEDDING",upcoming: "UPCOMING",mainAugTwentyThree: "Main: 29 Aug 23",nextAugTwentyThree: "Next: 19 Aug 23",price: "PAYMENT",team: "TEAM"),KhichiqorderstwentyoneItemModel(image:ImageConstant.imgBabyShootIcon,siddheshwarShreyasi: "Surbhi Kedar",wedding: "BABY SHOOT",upcoming: "COMPLETE")];
+
+ }
